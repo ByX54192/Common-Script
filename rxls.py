@@ -1,6 +1,7 @@
 # -*- coding: UTF-8 -*-
 import xlrd
 from datetime import date,datetime
+#author:by Seven
 #python读取excel表中单元格的内容返回的有5种类型，即ctype:
 # ctype: 0 empty ,1 string ,2 number,3 date,4 boolean,5 error
 #读取的文件名
