@@ -1,4 +1,5 @@
 # -*- coding: UTF-8 -*-
+# author:by Seven
 import xlwt
 #设置表格样式
 def set_style(name,height,bold=False):
